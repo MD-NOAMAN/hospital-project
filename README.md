@@ -33,7 +33,7 @@ I wanted to create a desktop solution that wasn't just functional, but also visu
 * `hospita_pro_v4.db` - The local database (automatically initialized on first run).
 * `Detailed_Medical_Record_*.pdf` - Format for generated clinical reports.
 
----
+----
 
 ## ⚙️ How to Run My Project
 
